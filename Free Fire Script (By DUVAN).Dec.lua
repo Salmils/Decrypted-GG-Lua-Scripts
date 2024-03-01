@@ -1,5 +1,5 @@
 -- Dec By Top GEO..
-gg.toast("CREADOR DEL SCRIPT DUVAN GAMESYT")
+gg.toast("CREADOR DEL escript salmi mods”)
 function name(A0_6)
   if _UPVALUE0_ ~= A0_6 then
     _UPVALUE0_ = A0_6
